@@ -1,6 +1,6 @@
-# Niha-Ruksar
+#NIHA RUKSAR
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B+I'm+Niha+Ruksar;Backend+Developer+%7C+Problem+Solver;Building+Scalable+Systems+%F0%9F%9A%80;DSA+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+%F0%9F%91%8B+I'm+Niha+Ruksar;Full+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Systems+%F0%9F%9A%80;DSA+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -25,13 +25,13 @@
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Niha Ruksar"
-        self.role = "FullStack Developer"
+        self.role = "Full Stack Developer"
         self.education = "B.E Computer Science @ PSVCET"
         
     def get_expertise(self):
         return {
-            "backend": ["Django", "REST APIs", "MySQL"],
-            "problem_solving": ["Data Structures", "Algorithms"],
+            "backend": ["Django", "REST APIs", "MySQL", "Role-Based Access Control"],
+            "problem_solving": ["Data Structures", "Algorithms", "LeetCode"],
             "architecture": ["System Design", "Scalable Applications", "Database Design"],
             "deployment": ["Azure Cloud", "Docker", "CI/CD"]
         }
@@ -132,15 +132,9 @@ const currentlyFocusedOn = {
         "🐳 Docker containerization & orchestration"
     ],
     
-    building: [
-        "⚙️ Enterprise management systems",
-        "☁️ Cloud-hosted RESTful applications",
-        "🎯 Scalable backend architectures"
-    ],
-    
     goals_2026: [
         "✅ Solve 300+ LeetCode problems",
-        "✅ Master system design",
+        "✅ Master system design fundamentals",
         "✅ Contribute to open-source Django projects"
     ]
 };
@@ -187,12 +181,12 @@ const currentlyFocusedOn = {
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
-|------------|----------------|----------------|----------|
-| **Cloud-Hosted Blogging Platform** | Scalable Django backend with role-based access control (RBAC), RESTful APIs, and secure authentication | `Django` `MySQL` `REST` `Cloud` | [View →](#) |
-| **Audit Management System** | Enterprise workflow system with distributed architecture and API-driven design | `Django` `Angular` `MySQL` | [View →](#) |
-| **Stock Price Prediction** | ML-based forecasting using LSTM, Random Forest with time-series analysis | `Python` `Scikit-learn` `Pandas` | [View →](#) |
-| **Weather Application** | Real-time weather data retrieval with GUI using third-party APIs | `Python` `Tkinter` `APIs` | [View →](#) |
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
+|------------|----------------|----------------|
+| **Cloud-Hosted Blogging Platform** | Scalable Django backend with role-based access control (RBAC), RESTful APIs, and secure authentication | `Django` `MySQL` `REST` `Cloud` |
+| **Audit Management System** | Enterprise workflow system with distributed architecture and API-driven design | `Django` `Angular` `MySQL` |
+| **Stock Price Prediction** | ML-based forecasting using LSTM, Random Forest with time-series analysis | `Python` `Scikit-learn` `Pandas` |
+| **Weather Application** | Real-time weather data retrieval with GUI using third-party APIs | `Python` `Tkinter` `APIs` |
 
 </div>
 
@@ -251,7 +245,7 @@ const currentlyFocusedOn = {
 
 ### ✨ Open for Opportunities
 
-**Backend Development** • **System Design** • **Problem Solving** • **Full-Stack Projects**
+**Full Stack Development** • **System Design** • **Problem Solving** • **Backend & Frontend Projects**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
@@ -270,3 +264,7 @@ const currentlyFocusedOn = {
 **⭐️ From [NihaRuksar](https://github.com/NihaRuksar) | Let's build something amazing together!**
 
 </div>
+
+
+
+
