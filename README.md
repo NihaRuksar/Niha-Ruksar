@@ -26,13 +26,12 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Niha Ruksar"
         self.role = "Backend Developer"
-        self.location = "Tirupattur, Tamil Nadu 📍"
         self.education = "B.E Computer Science @ PSVCET"
         
     def get_expertise(self):
         return {
-            "backend": ["Django", "REST APIs", "MySQL", "Role-Based Access Control"],
-            "problem_solving": ["Data Structures", "Algorithms", "LeetCode"],
+            "backend": ["Django", "REST APIs", "MySQL"],
+            "problem_solving": ["Data Structures", "Algorithms"],
             "architecture": ["System Design", "Scalable Applications", "Database Design"],
             "deployment": ["Azure Cloud", "Docker", "CI/CD"]
         }
@@ -134,16 +133,15 @@ const currentlyFocusedOn = {
     ],
     
     building: [
-        "⚙️ Enterprise audit management systems",
+        "⚙️ Enterprise management systems",
         "☁️ Cloud-hosted RESTful applications",
         "🎯 Scalable backend architectures"
     ],
     
-    goals_2025: [
+    goals_2026: [
         "✅ Solve 300+ LeetCode problems",
-        "✅ Master system design fundamentals",
-        "✅ Contribute to open-source Django projects",
-        "✅ Deploy 3+ production-grade applications"
+        "✅ Master system design",
+        "✅ Contribute to open-source Django projects"
     ]
 };
 ```
