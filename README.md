@@ -25,7 +25,7 @@
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Niha Ruksar"
-        self.role = "Backend Developer"
+        self.role = "FullStack Developer"
         self.education = "B.E Computer Science @ PSVCET"
         
     def get_expertise(self):
