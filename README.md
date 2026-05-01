@@ -94,13 +94,12 @@ me = SoftwareEngineer()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 💾 Databases & Cloud
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🔧 Tools & Platforms
@@ -112,9 +111,13 @@ me = SoftwareEngineer()
 
 ### 📊 Data Science & ML
 
+![Gemma](https://img.shields.io/badge/Gemma_2_9B-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 </div>
 
@@ -183,6 +186,8 @@ const currentlyFocusedOn = {
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack |
 |------------|----------------|----------------|
+| **GitHub Cloud Connector** | Lightweight REST API connector that authenticates with GitHub and exposes endpoints for repository management, issue tracking, and pull request creation | `Python` `FastAPI` `REST API` `GitHub API` `Pydantic` |
+| **AI-First CRM HCP Module** | AI-powered Healthcare Professional CRM with LangGraph agent, natural language form filling, and split-screen interaction logging for life science field reps | `React` `Redux` `FastAPI` `LangGraph` `Groq` `gemma2-9b-it` `MySQL` `SQLAlchemy` |
 | **Cloud-Hosted Blogging Platform** | Scalable Django backend with role-based access control (RBAC), RESTful APIs, and secure authentication | `Django` `MySQL` `REST` `Cloud` |
 | **Audit Management System** | Enterprise workflow system with distributed architecture and API-driven design | `Django` `Angular` `MySQL` |
 | **Stock Price Prediction** | ML-based forecasting using LSTM, Random Forest with time-series analysis | `Python` `Scikit-learn` `Pandas` |
